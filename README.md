@@ -10,7 +10,11 @@
 
 -Giải nén tẹp Adafruit_AHTX0-master.zip và sao chép tẹp bên trong vào thư mục libraries của arduino.
 
-| Thiết bị           | ESP8266 (NodeMCU) |
+
+*You can edit the time and language to suit your region.*
+
+
+| Device             | ESP8266 (NodeMCU) |
 | -------------------| ----------------- | 
 | AHTx0 - **VCC**    | 3V3               |
 | AHTx0 - **GND**    | GND               |
