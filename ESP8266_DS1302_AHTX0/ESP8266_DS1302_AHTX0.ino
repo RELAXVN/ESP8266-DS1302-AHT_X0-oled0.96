@@ -9,8 +9,8 @@
 #include <Adafruit_AHTX0.h>
 
 // WiFi Info
-const char* ssid = "Ngoc Huy";
-const char* password = "ngochuy2010";
+const char* ssid = "yourssid";
+const char* password = "yourpassword";
 
 // OLED
 #define SCREEN_WIDTH 128
